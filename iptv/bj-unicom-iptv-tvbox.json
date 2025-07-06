@@ -1,0 +1,979 @@
+{
+  "groups": [
+    {
+      "group": "央视高清",
+      "channels": [
+        {
+          "name": "CCTV-1综合[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.129:8008",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+        },
+        {
+          "name": "CCTV-2财经[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.60:8084",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"
+        },
+        {
+          "name": "CCTV-3综艺[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.172:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
+        },
+        {
+          "name": "CCTV-4中文国际[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.105:8092",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"
+        },
+        {
+          "name": "CCTV-4 中文国际 欧洲[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.213:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png"
+        },
+        {
+          "name": "CCTV-4 中文国际 美洲[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.214:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png"
+        },
+        {
+          "name": "CCTV-5体育[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.173:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
+        },
+        {
+          "name": "CCTV5+[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.130:8004",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
+        },
+        {
+          "name": "CCTV-6电影[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.174:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
+        },
+        {
+          "name": "CCTV-7国防军事[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.61:8104",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"
+        },
+        {
+          "name": "CCTV-8电视剧[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.175:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
+        },
+        {
+          "name": "CCTV-9纪录[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.62:8112",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"
+        },
+        {
+          "name": "CCTV-10科教[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.63:8116",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"
+        },
+        {
+          "name": "CCTV-11戏曲[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.152:8120",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"
+        },
+        {
+          "name": "CCTV-12社会与法[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.64:8124",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"
+        },
+        {
+          "name": "CCTV-13新闻[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.124:8128",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"
+        },
+        {
+          "name": "CCTV-14少儿[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.65:8132",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"
+        },
+        {
+          "name": "CCTV-15音乐[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.153:8136",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
+        },
+        {
+          "name": "CCTV-16奥林匹克频道[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.184:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"
+        },
+        {
+          "name": "CCTV-17农业农村[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.151:8144",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"
+        },
+        {
+          "name": "中国教育1台[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.57:8152",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"
+        }
+      ]
+    },
+    {
+      "group": "卫视高清",
+      "channels": [
+        {
+          "name": "BRTV北京卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.241:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+        },
+        {
+          "name": "湖南卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.132:8012",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hunan.png"
+        },
+        {
+          "name": "浙江卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.137:8036",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
+        },
+        {
+          "name": "江苏卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.135:8028",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
+        },
+        {
+          "name": "东方卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.136:8032",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
+        },
+        {
+          "name": "山东卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.209:8052",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shandong.png"
+        },
+        {
+          "name": "安徽卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.211:8064",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+        },
+        {
+          "name": "湖北卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.138:8044",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hubei.png"
+        },
+        {
+          "name": "东南卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.156:8148",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png"
+        },
+        {
+          "name": "广东卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.142:8048",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
+        },
+        {
+          "name": "辽宁卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.210:8056",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
+        },
+        {
+          "name": "黑龙江卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.133:8016",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"
+        },
+        {
+          "name": "深圳卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.134:8020",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png"
+        },
+        {
+          "name": "贵州卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.149:8076",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png"
+        },
+        {
+          "name": "天津卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.141:1234",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png"
+        },
+        {
+          "name": "河北卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.148:8072",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hebei.png"
+        },
+        {
+          "name": "重庆卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.122:8160",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png"
+        },
+        {
+          "name": "江西卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.123:8164",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png"
+        },
+        {
+          "name": "吉林卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.240:8172",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jilin.png"
+        }
+      ]
+    },
+    {
+      "group": "北京高清",
+      "channels": [
+        {
+          "name": "BRTV北京卫视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.241:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+        },
+        {
+          "name": "BRTV新闻[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.159:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png"
+        },
+        {
+          "name": "BRTV文艺[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.242:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"
+        },
+        {
+          "name": "BRTV影视[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.158:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"
+        },
+        {
+          "name": "BRTV体育休闲[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.243:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png"
+        },
+        {
+          "name": "BRTV纪实科教[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.115:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"
+        },
+        {
+          "name": "BRTV财经[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.116:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png"
+        },
+        {
+          "name": "BRTV生活[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.117:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"
+        },
+        {
+          "name": "BRTV卡酷动画[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.189:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
+        },
+        {
+          "name": "朝阳电视台[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.163:8001"
+        },
+        {
+          "name": "密云电视台[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.154:8001"
+        },
+        {
+          "name": "房山电视台[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.96:8001"
+        },
+        {
+          "name": "通州融媒[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.221:8001"
+        }
+      ]
+    },
+    {
+      "group": "剧场IPTV",
+      "channels": [
+        {
+          "name": "城市剧场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.67:4120"
+        },
+        {
+          "name": "军旅剧场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.68:4120"
+        },
+        {
+          "name": "古装剧场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.69:4120"
+        },
+        {
+          "name": "武侠剧场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.90:4120"
+        },
+        {
+          "name": "喜剧影院",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.91:4120"
+        },
+        {
+          "name": "动作影院",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.92:4120"
+        },
+        {
+          "name": "家庭影院",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.93:4120"
+        },
+        {
+          "name": "IPTV热播剧场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.194:9020",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png"
+        },
+        {
+          "name": "金鹰卡通",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.51:9252",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"
+        },
+        {
+          "name": "嘉佳卡通",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.147:9268",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"
+        },
+        {
+          "name": "音乐现场",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.70:4120"
+        },
+        {
+          "name": "IPTV魅力时尚",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.196:9012",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png"
+        },
+        {
+          "name": "IPTV收视指南",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.193:8012"
+        },
+        {
+          "name": "IPTV经典电影",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.195:9024",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png"
+        }
+      ]
+    },
+    {
+      "group": "高清4K北京IPTV",
+      "channels": [
+        {
+          "name": "爱上4K[4K]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.236:2000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png"
+        },
+        {
+          "name": "北京IPTV 4K超清[4K]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.249:8001"
+        }
+      ]
+    },
+    {
+      "group": "高清北京IPTV",
+      "channels": [
+        {
+          "name": "北京IPTV淘精彩[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.178:8001"
+        },
+        {
+          "name": "北京IPTV淘娱乐[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.100:8001"
+        },
+        {
+          "name": "北京IPTV淘剧场[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.95:8001"
+        },
+        {
+          "name": "北京IPTV淘Baby[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.238:8001"
+        },
+        {
+          "name": "北京IPTV淘电影[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.250:8001"
+        },
+        {
+          "name": "北京IPTV 萌宠TV[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.102:8001"
+        },
+        {
+          "name": "大健康[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.251:8001"
+        },
+        {
+          "name": "体育赛事[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.157:8176"
+        },
+        {
+          "name": "电影台[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.97:8001"
+        },
+        {
+          "name": "每日影院[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.111:8001"
+        },
+        {
+          "name": "幸福剧场[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.112:8001"
+        },
+        {
+          "name": "幸福娱乐[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.113:8001"
+        },
+        {
+          "name": "风尚生活[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.114:8001"
+        },
+        {
+          "name": "聚鲨环球精选[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.179:8001"
+        },
+        {
+          "name": "聚鲨国际[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.183:8001"
+        },
+        {
+          "name": "央广购物[高清]1",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.222:8001"
+        },
+        {
+          "name": "央广购物[高清]2",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.223:8001"
+        },
+        {
+          "name": "优购物[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.180:8001"
+        },
+        {
+          "name": "时尚购物[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.181:8001"
+        },
+        {
+          "name": "东方购物[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.182:8001"
+        },
+        {
+          "name": "家有购物[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.185:8001"
+        },
+        {
+          "name": "BRTV体育休闲[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.97:8001"
+        },
+        {
+          "name": "金鹰纪实[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.58:8156",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"
+        },
+        {
+          "name": "快乐垂钓[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.164:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg"
+        },
+        {
+          "name": "茶频道[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.165:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg"
+        },
+        {
+          "name": "CGTN 新闻[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.215:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "CGTN 记录[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.216:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "CGTN 西班牙语[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.217:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "CGTN 法语[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.218:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "CGTN 阿拉伯语[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.219:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "CGTN 俄语[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.220:4220",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "纪实人文[高清]",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.212:8060",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"
+        }
+      ]
+    },
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV-1综合",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.1:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+        },
+        {
+          "name": "CCTV-2财经",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.2:8004",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"
+        },
+        {
+          "name": "CCTV-3综艺",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.107:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
+        },
+        {
+          "name": "CCTV-4中文国际",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.4:8216",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"
+        },
+        {
+          "name": "CCTV-5体育",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.108:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
+        },
+        {
+          "name": "CCTV-6电影",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.109:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
+        },
+        {
+          "name": "CCTV-7国防军事",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.7:8024",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"
+        },
+        {
+          "name": "CCTV-8电视剧",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.110:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
+        },
+        {
+          "name": "CCTV-9纪录",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.9:8032",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"
+        },
+        {
+          "name": "CCTV-10科教",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.10:8228",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"
+        },
+        {
+          "name": "CCTV-11戏曲",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.11:8040",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"
+        },
+        {
+          "name": "CCTV-12社会与法",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.12:8232",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"
+        },
+        {
+          "name": "CCTV-13新闻",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.13:8048",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"
+        },
+        {
+          "name": "CCTV-14少儿",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.14:8236",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"
+        },
+        {
+          "name": "CCTV-15音乐",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.15:8052",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
+        },
+        {
+          "name": "CCTV-17农业农村",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.150:8064",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"
+        }
+      ]
+    },
+    {
+      "group": "北京卫视",
+      "channels": [
+        {
+          "name": "BRTV北京卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.225:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+        },
+        {
+          "name": "BRTV文艺",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.226:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"
+        },
+        {
+          "name": "BRTV科教",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.227:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"
+        },
+        {
+          "name": "BRTV影视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.228:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"
+        },
+        {
+          "name": "BRTV财经",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.229:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png"
+        },
+        {
+          "name": "BRTV冬奥纪实",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.230:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"
+        },
+        {
+          "name": "BRTV生活",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.231:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"
+        },
+        {
+          "name": "BRTV青年",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.232:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png"
+        },
+        {
+          "name": "BRTV新闻",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.233:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png"
+        },
+        {
+          "name": "BRTV卡酷少儿",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.234:8000",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
+        },
+        {
+          "name": "BRTV国际频道",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.235:8000"
+        }
+      ]
+    },
+    {
+      "group": "地方卫视",
+      "channels": [
+        {
+          "name": "东方卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.34:8192",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
+        },
+        {
+          "name": "东南卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.36:8112",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png"
+        },
+        {
+          "name": "南方卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.161:8001",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/nanfang.png"
+        },
+        {
+          "name": "广西卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.39:8300",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png"
+        },
+        {
+          "name": "海南卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.45:8304",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/lvyou.png"
+        },
+        {
+          "name": "深圳卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.32:9244",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png"
+        },
+        {
+          "name": "厦门卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.143:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png"
+        },
+        {
+          "name": "广东卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.38:8132",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
+        },
+        {
+          "name": "江西卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.30:8280",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png"
+        },
+        {
+          "name": "云南卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.26:8108",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png"
+        },
+        {
+          "name": "西藏卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.47:8164",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/xizang.png"
+        },
+        {
+          "name": "贵州卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.31:8120",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png"
+        },
+        {
+          "name": "重庆卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.35:8296",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png"
+        },
+        {
+          "name": "湖北卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.33:8136",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hubei.png"
+        },
+        {
+          "name": "湖南卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.18:8268",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hunan.png"
+        },
+        {
+          "name": "安徽卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.21:8272",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+        },
+        {
+          "name": "山东卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.25:8148",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shandong.png"
+        },
+        {
+          "name": "江苏卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.20:8276",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
+        },
+        {
+          "name": "浙江卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.19:8284",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
+        },
+        {
+          "name": "四川卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.29:8288",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png"
+        },
+        {
+          "name": "河南卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.27:8128",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/henan.png"
+        },
+        {
+          "name": "陕西卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.41:8140",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png"
+        },
+        {
+          "name": "新疆卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.48:8160",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"
+        },
+        {
+          "name": "宁夏卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.46:8124",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png"
+        },
+        {
+          "name": "青海卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.44:8184",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png"
+        },
+        {
+          "name": "甘肃卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.49:8188",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/gansu.png"
+        },
+        {
+          "name": "山西卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.42:8172",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"
+        },
+        {
+          "name": "河北卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.37:8292",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/hebei.png"
+        },
+        {
+          "name": "天津卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.23:8144",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png"
+        },
+        {
+          "name": "内蒙古卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.43:8176",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png"
+        },
+        {
+          "name": "辽宁卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.24:8116",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
+        },
+        {
+          "name": "黑龙江卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.28:8196",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"
+        },
+        {
+          "name": "吉林卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.40:8200",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/jilin.png"
+        },
+        {
+          "name": "三沙卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.155:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/sansha.png"
+        },
+        {
+          "name": "兵团卫视",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.144:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"
+        }
+      ]
+    },
+    {
+      "group": "教育IPTV",
+      "channels": [
+        {
+          "name": "山东教育",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.52:4120"
+        },
+        {
+          "name": "中国教育1台",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.146:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"
+        },
+        {
+          "name": "中国教育2台",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.54:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png"
+        },
+        {
+          "name": "中国教育3台",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.55:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png"
+        },
+        {
+          "name": "中国教育4台",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.56:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"
+        },
+        {
+          "name": "IPTV少儿动画",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.199:9000",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png"
+        }
+      ]
+    },
+    {
+      "group": "生活IPTV",
+      "channels": [
+        {
+          "name": "财富天下",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.53:9136",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/财富天下.png"
+        },
+        {
+          "name": "CGTN",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.16:8056",
+          "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+        },
+        {
+          "name": "地理",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.71:4120"
+        },
+        {
+          "name": "美妆",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.72:4120"
+        },
+        {
+          "name": "美人",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.73:4120"
+        },
+        {
+          "name": "精选",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.74:4120"
+        },
+        {
+          "name": "解密",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.75:4120"
+        },
+        {
+          "name": "军事",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.76:4120"
+        },
+        {
+          "name": "国学",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.77:4120",
+          "logo": "http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg"
+        },
+        {
+          "name": "戏曲",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.78:4120"
+        }
+      ]
+    },
+    {
+      "group": "少儿IPTV",
+      "channels": [
+        {
+          "name": "早教",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.79:4120"
+        },
+        {
+          "name": "动画",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.80:4120"
+        },
+        {
+          "name": "好学生",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.81:4120"
+        }
+      ]
+    },
+    {
+      "group": "娱乐IPTV",
+      "channels": [
+        {
+          "name": "鉴赏",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.82:4120"
+        },
+        {
+          "name": "墨宝",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.83:4120"
+        },
+        {
+          "name": "光影",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.84:4120"
+        },
+        {
+          "name": "台球",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.85:4120"
+        },
+        {
+          "name": "武术",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.87:4120"
+        },
+        {
+          "name": "高网",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.88:4120"
+        },
+        {
+          "name": "足球",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.89:4120"
+        },
+        {
+          "name": "星影",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.94:4120"
+        },
+        {
+          "name": "爱生活",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.86:4120"
+        },
+        {
+          "name": "聚鲨健康",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.186:8001"
+        },
+        {
+          "name": "聚鲨生活",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.187:8001"
+        },
+        {
+          "name": "聚鲨国际",
+          "url": "http://192.168.0.105:4022/rtp/239.3.1.188:8001"
+        }
+      ]
+    }
+  ]
+}

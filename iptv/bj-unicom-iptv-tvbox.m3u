@@ -20,6 +20,8 @@ http://192.168.0.105:4022/rtp/239.3.1.174:8001
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视高清",CCTV-7国防军事[高清]
 http://192.168.0.105:4022/rtp/239.3.1.61:8104
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视高清",CCTV-8电视剧[高清]
+http://192.168.0.105:4022/rtp/239.2.1.175:8000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视高清",CCTV-8电视剧[高清]
 http://192.168.0.105:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视高清",CCTV-9纪录[高清]
 http://192.168.0.105:4022/rtp/239.3.1.62:8112
